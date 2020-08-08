@@ -128,8 +128,8 @@
     * Request Body
     ```json
     {
-        "name" : "Janishar Ali",
-        "email": "ali@afteracademy.com",
+        "name" : "pavansanthosh",
+        "email": "pavansanthosh@gmail.com",
         "password": "changeit",
         "profilePicUrl": "https://avatars1.githubusercontent.com/u/11065002?s=460&u=1e8e42bda7e6f579a2b216767b2ed986619bbf78&v=4"
     }
@@ -142,8 +142,8 @@
       "data": {
         "user": {
           "_id": "5e7c9d32307a223bb8a4b12b",
-          "name": "Janishar Ali",
-          "email": "ali@afteracademy.com",
+          "name": "pavansanthoshpeddinti",
+          "email": "pavansanthoshpeddinti@gmail.com",
           "roles": [
             "5e7b8acad7aded2407e078d7"
           ],
@@ -178,7 +178,7 @@
       "statusCode": "10000",
       "message": "success",
       "data": {
-        "name": "Janishar Ali Anwar",
+        "name": "pavansanthosh",
         "profilePicUrl": "https://avatars1.githubusercontent.com/u/11065002?s=460&u=1e8e42bda7e6f579a2b216767b2ed986619bbf78&v=4",
         "roles": [
           {
